@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# E-Learning Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+E-Learn, is an online training platform for people interested in Information Technology
 
-## Available Scripts
+## Getting started
+
+Clone the repository
 
 In the project directory, you can run:
 
